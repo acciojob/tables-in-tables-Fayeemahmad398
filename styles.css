@@ -10,7 +10,7 @@ table{
 	border:2px solid black;
 }
 .bg-color{
-	background-color:+rgba(0, 0, 0);
+	background-color:rgba(0, 0, 0);
 	color:white;
 }
 
