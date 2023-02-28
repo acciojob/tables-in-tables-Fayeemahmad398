@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table{
+	border:2px solid black;
+}
+.table3-left{
+	margin-top:90px;
+}
+.tab2,.tab3,.tab1,.tab3{
+	border:2px solid black;
+}
+.bg-color{
+	background-color:black;
+	color:white;
+}
+
